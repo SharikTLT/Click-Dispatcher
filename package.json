@@ -1,0 +1,20 @@
+{
+  "name": "click-dispatcher",
+  "version": "1.0.0",
+  "description": "Clicker engine.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CptHeartless/Click-Dispatcher.git"
+  },
+  "keywords": [
+    "clicker",
+    "engine",
+    "javascript"
+  ],
+  "author": "CptHeartless, SharikTLT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CptHeartless/Click-Dispatcher/issues"
+  },
+  "homepage": "https://github.com/CptHeartless/Click-Dispatcher#readme"
+}
